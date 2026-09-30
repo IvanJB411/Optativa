@@ -89,6 +89,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 
 [Hola](hola.html)
 
+[Formulario](formulario.html)
 
 ## parte 5: formulario HTML + JavaScript
 1. Crea un archivo llamado `formulario.html` en la misma carpeta `00JSyEntorno`.
